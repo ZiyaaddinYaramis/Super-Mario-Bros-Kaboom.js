@@ -22,7 +22,7 @@ This project recreates the classic Mario game mechanics using JavaScript and Kab
 To run this project locally:
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/mario-game-kaboom
+   git clone https://github.com/ZiyaaddinYaramis/mario-game-kaboom
    ```
 2. Open the project directory:
    ```
